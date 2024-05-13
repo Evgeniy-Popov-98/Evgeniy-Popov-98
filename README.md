@@ -8,7 +8,7 @@
 I am a motivated frontend developer with a strong passion for creating web applications. Currently, am proficient in technologies such as HTML, CSS, JavaScript, React. I'm also learning TypeScript, Node.js and improving my English. I am constantly eager for new knowledge and experiences, which allows me to learn quickly and master new skills.
 In a short span of time, I have already gained experience by actively participating in team project and individual projects. These team projects gave me the opportunity to take on the role of team leader. And this experience allowed me to develop collaboration and problem-solving skills in a team.
 
-- 💼 Freelance FrontEnd Developer  and me Portfolio [FrontEnd Developer]([http://razorpay.com/](https://drive.google.com/file/d/1wTUU60BWOJuhzRau32mXgf4DscHVH99A/view?usp=drive_link))
+- 💼 Freelance FrontEnd Developer  and me Portfolio [FrontEnd Developer](https://drive.google.com/file/d/1wTUU60BWOJuhzRau32mXgf4DscHVH99A/view?usp=drive_link)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
