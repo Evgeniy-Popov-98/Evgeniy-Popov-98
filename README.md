@@ -1,5 +1,5 @@
 
-<p border-radius="20px" align="center"><a href="https://anuraghazra.github.io"><img  width="80%" alt="I`m Yevhenii and I'm open for work!" src="./assets/title-image.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img  width="80%" alt="I`m Yevhenii and I'm open for work!" src="./assets/title-image.png" /></a></p>
 
 <br />
 
@@ -8,13 +8,13 @@
 I am a motivated frontend developer with a strong passion for creating web applications. Currently, am proficient in technologies such as HTML, CSS, JavaScript, React. I'm also learning TypeScript, Node.js and improving my English. I am constantly eager for new knowledge and experiences, which allows me to learn quickly and master new skills.
 In a short span of time, I have already gained experience by actively participating in team project and individual projects. These team projects gave me the opportunity to take on the role of team leader. And this experience allowed me to develop collaboration and problem-solving skills in a team.
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Freelance FrontEnd Developer  and me Portfolio [FrontEnd Developer]([http://razorpay.com/](https://drive.google.com/file/d/1wTUU60BWOJuhzRau32mXgf4DscHVH99A/view?usp=drive_link))
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing WebSite and building fun applications on React
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](evgeniy6183@gmail.com)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
