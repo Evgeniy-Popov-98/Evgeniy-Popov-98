@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://anuraghazra.github.io"><img border-radius="20px" width="80%" alt="I`m Yevhenii and I'm open for work!" src="./assets/title-image.png" /></a></p>
+<p border-radius="20px" align="center"><a href="https://anuraghazra.github.io"><img  width="80%" alt="I`m Yevhenii and I'm open for work!" src="./assets/title-image.png" /></a></p>
 
 <br />
 
