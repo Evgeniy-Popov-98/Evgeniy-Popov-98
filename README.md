@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/fd5cf490-7705-4ffe-a43d-c912ca5d13f9)
 <p align="center"><a href=""><img  width="80%" alt="I`m Yevhenii and I'm open for work!" src="./assets/title-image.png" /></a></p>
 
 <br />
